@@ -1,4 +1,3 @@
-# laravel-tall-filament-setup
 # Laravel TALL Stack and Filament Setup Script
 
 This PowerShell script automates the installation of a Laravel application with the TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire) and Filament.
